@@ -1,0 +1,2 @@
+detect.py --images C:\Users\Yoshi\Desktop\CAR_6.png --cfg cfg\yolov3-tiny.cfg --weights yolov3-tiny_last.weights
+
