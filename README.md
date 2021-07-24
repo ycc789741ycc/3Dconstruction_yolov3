@@ -1,4 +1,8 @@
 # 3Dconstruction_yolov3 
+This is a project about using dual lens camera to detect car model's distance from  
+the carmera, and this project applyed yolov3 to capture the same target on each camera.  
+(If you want to use this sample code, you may need train your yolov3 model and tune
+camera's matrix using matlab duing to different physical condition.)
 
 ## Environment
 Python 3.7.2  
@@ -10,6 +14,9 @@ pandas==0.25.1
 
 ## Hardware requirement  
 Dual lens camera
+
+## Demo  
+![Demo Pic](https://github.com/ycc789741ycc/3Dconstruction_yolov3/blob/master/Demo.png "Demo Pic")
 
 ## Quick Start 
 cd C:\File's Path\Project_Yolov3_Distance_Detection  
