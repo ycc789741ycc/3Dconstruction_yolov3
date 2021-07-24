@@ -2,7 +2,7 @@
 This is a project about using dual lens camera to detect car model's distance from  
 the carmera, and this project applyed yolov3 to capture the same target on each camera.  
 (If you want to use this sample code, you may need train your yolov3 model and tune  
-camera's matrix using matlab duing to different physical condition.)
+camera's matrix using matlab due to different physical condition.)
 
 ## Environment
 Python 3.7.2  
