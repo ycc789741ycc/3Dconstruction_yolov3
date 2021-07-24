@@ -16,6 +16,7 @@ pandas==0.25.1
 Dual lens camera
 
 ## Demo  
+This is the screenshoot from one of two camera.
 ![Demo Pic](https://github.com/ycc789741ycc/3Dconstruction_yolov3/blob/master/Demo.png "Demo Pic")
 
 ## Quick Start 
