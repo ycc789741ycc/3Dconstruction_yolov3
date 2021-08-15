@@ -1,6 +1,6 @@
 # 3Dconstruction_yolov3 
-This is a project about using dual lens camera to detect car model's distance from  
-the carmera, and this project applyed yolov3 to capture the same target on each camera.  
+This is a project about using two cameras to detect car model's distance from the carmera   
+position, and this project applied yolov3 to capture the same target on each camera screen.  
 (If you want to use this sample code, you may need train your yolov3 model and tune  
 camera's matrix using matlab due to different physical condition.)
 
